@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+A) React is the premier way to build big, fast Web apps with JavaScript.
+
 - [ ] What does it mean to _think_ in react?
+
+A) The process in which you apply react to a specific problem (ie. marking up a page before you start working on it)
 
 - [ ] Describe state.
 
+A) State is basically data. The data that a particular class has within the class.
+
 - [ ] Describe props.
+
+A) props are the way you move that data around.
 
 ## Project Set Up
 
